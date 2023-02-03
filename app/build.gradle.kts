@@ -85,7 +85,7 @@ android {
 }
 
 dependencies {
-    coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.0.0")
+    coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.0.2")
 
     debugImplementation("com.squareup.leakcanary:leakcanary-android:2.9.1")
 

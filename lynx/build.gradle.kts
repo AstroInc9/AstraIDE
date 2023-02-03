@@ -27,7 +27,7 @@ android {
 }
 
 dependencies {
-    coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.0.0")
+    coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.0.2")
 
     implementation("androidx.annotation:annotation:1.5.0")
     implementation("com.github.pedrovgs:renderers:4.1.0")
